@@ -1,4 +1,4 @@
-# [AMQOR Merouane](https://merouaneamqor.github.io/)
+# [AMQOR Merouane](https://merouaneamqor.com/)
 
 ## Contact Information:
 
